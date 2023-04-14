@@ -1,0 +1,51 @@
+ANOTAÇÕES PRINCIPAIS
+Notas:
+P1:7.00 PESO 10
+P2:7.00 PESO 10
+TRABALHO: 10.00 PESO 3
+TOLERÂNCIA P/ ATRASO: 0 min.
+
+PLATAFORMAS JAVA
+
+JAVA SE (JAVA STANDE EDITION): é a base da plafatorma, cotendo as bibliotecas comuens, sendo direcionado a aplicações de pc's e servidores.
+JAVA EE (JAVA ENTERPRISE EDITION): edicição voltada para o desenvolvimento corporativo e aplicações web
+JAVA ME (JAVA MICRO EDITION): edição de desenvolvimento de aplicações para dispositivos móveis e embarcados. 
+JAVA FX (PLATAFORMA DE SOFTWARE MILTIMÍDIA): é uma tecnologia de software que, ao ser combinada com java, permite a criação e implatação de aplicação de aparencia moderna e conteudo rico de audio e vídeo.
+
+COMPONESTES DO JAVA
+
+* JRE: Será o suficientes estar instalado, o sendo o ambiente de execução.
+	*
+* JDK: É necessario estar instalado no sistema, ou seja o kit de desenvolvimento.
+	*visualizador de appletes, bilbiotecas de desenvolvimento.
+
+DOCUMENTÇÃO JAVA: JAVA doc documentação completa do java.
+
+
+PROCESSO DE DESENVOLVIMENTO:
+
+CÓDIGO > COMPILADOR > CÓDIGO.class > JavaVM > MEU PROGRAMA
+
+*Todo código-fonte escrito em arquivo texto possui uma extenção.java;
+*Esse arquivo é compliado com javac gerado o arquivo .class;
+*O arquivo .class não contém código de máquina nativo, e sim o bytecodes.
+
+JVM - Java Virtual Machine : é o programa que carrega e executa os aplicativos.
+
+O que são workspaces ?
+DEFINIR O JDK NA IDE
+criar / abirir um projeto JAva
+ciar / importante um projeto maven
+conhercer os principais atalhos
+code snippet
+executar/ depurar nosso programa
+conhecer alguns atalhos
+
+maven: é uma ferramentda de automação de compilação, utilizada primariamnete em projetos java.
+
+TRAZER:
+JDK - INSTALADA
+IDE - ESCOLHIDA
+DIRETÓRIO DO PROJETO DEFINIDO
+
+
