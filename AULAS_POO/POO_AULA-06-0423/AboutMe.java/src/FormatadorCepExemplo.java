@@ -1,4 +1,4 @@
-/* 
+
 public class FormatadorCepExemplo {
      
     public static void main(String[] args) {
@@ -19,4 +19,4 @@ public class FormatadorCepExemplo {
     }
 
 }
- */ 
+
