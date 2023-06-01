@@ -1,0 +1,17 @@
+PILARES POO
+
+Para uma linguagem ser considerada orientada a objetos, esta deve seguir o que denominamos como os 4 pilares de POO:
+
+ENCAPSULAMENTO: Nem tudo precisa estar visível, grande parte do nosso algorítimo pode ser distribuído em MÉTODOS, com 
+com finalidades espeficiadas que completam uma ação em nossa aplicação.
+	ex: ligar um veículo, exige muitas etapas para engenharia, mas o cindutor só visuaçiza a ignição, dar partida e a
+	"magia" acontece.
+HERANÇA: São características e compportamentos comnuns, podem ser elevados e compaltilhados através de uma hierarquia
+de objetos.
+	ex: Um carro e uma motocicleta possuem propriedades com placa e etc
+
+ABSTRAÇÃO: É a indisponibilidade, para determinar a lógica de um veículo ou vários comportamentos em um objeto.
+	ex: Determina duas ações como acelerar frear, logo, estes comportamenetos devesão ser abstratos, pois existem mais de uma 
+	maneira de se realizar a mesma operação.
+POLIMORFISMO: São inúmeras manerias de se realizar uma mesma ação.
+	ex:

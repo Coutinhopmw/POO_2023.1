@@ -1,0 +1,25 @@
+MODIFICADOR PRIVATE:
+
+Gests e setters:
+
+Os atributos precisam ter o modificaro de acesso privite. Ex> String Nome;
+Como agora os atributos estarão somente a nível de classe, precisaremos dos métodos GETX e 
+SETX, Ex: getNome() e setNome(string novoNome).
+
+GET: É responsável por obter o valor atual do atritibuto
+SET: Define o valor o atrivbuto;
+
+COSTRUTORES ? NÃO ENTENDI
+
+
+ENUNS: É um tipo especial de classe de variável imutável e disponível a todas a aplicações	
+UML: LINGUAGEM DE MODELAGE UNIFICADA, possui 3 conceitos, diagramas, elementos, relacionamentos;
+
+Diagramas de classe: Diagrama de classes, é utilizada para fazer a representação de,e estruturas de classe de negócio:
+	Identificação: nome/finalidade;
+	atributos: propiedades
+	operações: ações ou métodos;
+
+Diagrama de objetos: Esse diagrama, representa os objetos existentes em um determinado instante ou fato na aplicação:
+
+Relaco
