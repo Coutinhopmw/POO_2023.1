@@ -1,0 +1,39 @@
+Quando crirar uma variável static? Quando efetuar operações em um obj ou alterações de valores da variável não forem 
+importantes a um obj específico.
+Acessar o valor da variável ou executar alguma operaçai antes da instanciação do obj for importante.
+
+Pontos importantes sobre métodos static: Você pode invocar metodos static de uma classe sem a necessidade depo nehuma 
+
+ARRAYS 
+* Armazenam elementos de um msm tipo.
+* Armazenam a referência para obj do msm tipo.
+* Declarações de arrys nunca poderaão ter o tamanho do array. Tamanho só pode ser definido na criação.
+* Arrays não podem ser redimencionados. O tamanho é sempre fixo e definido no momento da instaciação.
+* Vc pode tbm declarar, istanciar e iniciar um array com uma única linha de código.
+
+ATRIBUINDO VALORES AO ARRAY E PERCORRENDO
+*Todos os arrays possuem um atributo chamado length que contém o tamanho do array.
+*Os índices de array iniciam em 0.
+*O ultimo item de um array sempre terá o indice = (tamanho do array -1).
+
+REGAS PARA VAR-AGS
+
+*Utilização de var-args só pode ocorrer uma única vez em uma lisa de parâmetros
+*lista de parâmetos variáveis dever ser declarada no fik da lista de parâmetos
+
+LOOP FOR OTIMIZADO (FOR EACH):
+
+Quando devemos utilizar o for-Each?
+	Simplificar o código para iterar por uma array ou colletion
+	Percorrer oo array onde o acesso aos índices não sejam relevantes
+	Percorrer coleções onde o acesso aos índices não sejam relantes
+Quando não usar o for-each?
+	Quando for necessário acessar o indice do array ou coleção durante a iteração.
+	Quando necessário adicionar ou remover objetos do arrau ou coleção.
+
+
+
+
+
+
+
